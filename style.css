@@ -210,6 +210,11 @@ span {
     text-align: center;
 }
 
+.time img {
+
+    width: 20px;
+}
+
 @media screen and (max-width:800px) {
 
     header {

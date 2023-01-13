@@ -9,7 +9,7 @@
 body {
     width: 100%;
 
-    background-color: #9F9F9F;
+    background-color: aliceblue;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -73,9 +73,9 @@ main {
     width: 870px;
     height: 100%;
     margin-top: 30px;
+    background-color: white;
 
 
-    background-color: aliceblue;
 
 }
 
